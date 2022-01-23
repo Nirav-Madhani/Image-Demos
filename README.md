@@ -2,7 +2,7 @@
  
 Showcase For Projects Made Using [Mirror](https://mirror-networking.com/)[-Image](https://github.com/Nirav-Madhani/Image)
 
-## Third Person Demo:
+## Third Person Multiplayer:
 
 |   |  |
 | ------------- | ------------- |
